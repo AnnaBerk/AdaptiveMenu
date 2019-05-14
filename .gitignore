@@ -1,0 +1,10 @@
+@@ -0,0 +1,12 @@
+node_modules/
+dist/
+Thumbs.db
+*.sublime*
+*.log
+*.psd
+*.ai
+*.pdf
+css/*.css
