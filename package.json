@@ -18,6 +18,6 @@
     "gulp-rename": "^1.4.0"
   },
   "dependencies": {
-    "postcss": "^7.0.16"
+    "postcss": "^7.0.36"
   }
 }
